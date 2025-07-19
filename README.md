@@ -1,4 +1,4 @@
-# 🚀 Flappy in the Space - A boring game help you sleep
+# 🚀 Flappy in the Space 
 
 A Unity 2D side-scrolling game inspired by **Flappy Bird**
 
